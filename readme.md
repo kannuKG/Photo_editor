@@ -1,8 +1,3 @@
-## Photo Editor
-
-https://user-images.githubusercontent.com/56497318/127525177-c5f99efa-f869-431e-a141-d4c29b8e009a.mp4
-
-
 
 ### Description
   - Functions:-
